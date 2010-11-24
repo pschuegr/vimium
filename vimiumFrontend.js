@@ -623,9 +623,11 @@ HUD = {
     ".vimiumHUD {" +
       "position: fixed;" +
       "bottom: 0px;" +
+			"left: 30%;" +
+			"font-size: 38px;" +
       "color: black;" +
-      "height: 13px;" +
-      "max-width: 400px;" +
+      "height: 40px;" +
+      "max-width: 700px;" +
       "min-width: 150px;" +
       "text-align: left;" +
       "background-color: #ebebeb;" +
